@@ -87,7 +87,9 @@ with st.sidebar:
         "Enthusiastic": "Energetic and positive",
         "Formal": "Official and ceremonial",
         "Humorous": "Light-hearted and funny",
-        "Empathetic": "Understanding and compassionate"
+        "Empathetic": "Understanding and compassionate",
+        "Conversational": "Natural dialogue-like style",
+        "Gen-Z": "Modern youth culture style"
     }
     
     target_language = st.selectbox("Select Target Language", list(languages.keys()))

@@ -15,7 +15,7 @@ An elegant AI-powered tool that transforms your text into different languages an
   - Chinese
   - Hindi
 
-- 🎭 10 Different Tone Styles:
+- 🎭 12 Different Tone Styles:
   - Professional
   - Casual
   - Friendly
@@ -26,6 +26,8 @@ An elegant AI-powered tool that transforms your text into different languages an
   - Formal
   - Humorous
   - Empathetic
+  - Conversational
+  - Gen-Z
 
 - 📊 Real-time word count comparison
 - 🚀 Rate limiting protection
